@@ -18,4 +18,3 @@ def imputar_valores_faltantes(df):
         print(f"⚠️ Quedan {nulos_restantes} valores nulos tras la imputación.")
 
     return df_imputado
-
