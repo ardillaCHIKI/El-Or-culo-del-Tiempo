@@ -24,6 +24,8 @@ checkpoints/
 consumo_diario.csv
 grafico_consumo_diario.png
 parametros_normalizacion.txt
+grafico_entrenamiento.png
+
 
 # Archivos temporales y de entorno
 __pycache__/
