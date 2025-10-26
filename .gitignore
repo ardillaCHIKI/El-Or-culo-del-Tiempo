@@ -26,13 +26,13 @@ grafico_consumo_diario.png
 parametros_normalizacion.txt
 grafico_entrenamiento.png
 
-
-# Archivos temporales y de entorno
+grafico_consumo_diario.png
+grafico_entrenamiento.png
+grafico_evaluacion.png
 __pycache__/
 *.pyc
-*.log
 .env
-.DS_Store
+
 
 # Entornos virtuales
 venv/
