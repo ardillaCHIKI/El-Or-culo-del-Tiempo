@@ -1,0 +1,31 @@
+# Archivos grandes o generados automáticamente
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.xlsx
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Archivos específicos del proyecto
+consumo_diario.csv
+grafico_consumo_diario.png
+parametros_normalizacion.txt
+
+# Archivos temporales y de entorno
+__pycache__/
+*.pyc
+*.log
+.env
+.DS_Store
+
+# Entornos virtuales
+venv/
+.env/
