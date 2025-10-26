@@ -14,6 +14,12 @@
 *.npy
 *.npz
 
+# Modelos y checkpoints
+*.h5
+*.pb
+checkpoints/
+
+
 # Archivos específicos del proyecto
 consumo_diario.csv
 grafico_consumo_diario.png
